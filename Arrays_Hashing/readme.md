@@ -28,7 +28,7 @@
   - Time complexity: O()
   - Space complexity: O(NK)
 
-- [] **Top K Frequent Elements**
+- [x] **Top K Frequent Elements**
 
   - https://leetcode.com/problems/top-k-frequent-elements/
   - Refresher: Build a map of frequencies and then sort.
