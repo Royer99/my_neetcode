@@ -25,8 +25,16 @@
 
   - https://leetcode.com/problems/group-anagrams/
   - Refresher: Use a map to take advantage of the insert method, slightly different than the easy variation of valid anagram since this one require a strict sort of the string for the map key comparison.
-  - Time complexity:
-  - Space complexity:O(NK)
+  - Time complexity: O()
+  - Space complexity: O(NK)
+
+- [] **Top K Frequent Elements**
+
+  - https://leetcode.com/problems/top-k-frequent-elements/
+  - Refresher: Build a map of frequencies and then sort.
+  - Time complexity:O()
+  - Space complexity:O()
+  - Notes: theres a better implementation using a heap , refer to the editorial https://leetcode.com/problems/top-k-frequent-elements/editorial/.
 
 - [] **Product of Array Except Self**
 
